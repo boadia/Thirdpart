@@ -3,3 +3,6 @@
      path = juce ext modules/msgpack/msgpack
 	
      url = https://github.com/msgpack/msgpack-c.git
+[submodule "Linqpp"]
+	path = Linqpp
+	url = https://github.com/sebrockm/Linqpp
